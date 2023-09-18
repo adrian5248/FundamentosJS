@@ -1,0 +1,18 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    width: 30%;
+    height: 30%;
+    margin: auto;
+    
+}
+
+
+button {
+    background-color: aqua;
+    border: 0;
+    color: aqua;
+    padding: 3%;
+}
